@@ -27,3 +27,4 @@ class Main {
             System.out.println(platform);
         }
     }
+
